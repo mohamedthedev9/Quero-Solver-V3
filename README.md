@@ -1,4 +1,4 @@
-# M.R.S.W Workspace
+# Qureo Solver Beta 1 by Mohamed Reda
 
 A cross-platform mobile study and interactive exercise automation workspace built with **Expo**, **React Native**, and **React Native WebView**.
 
